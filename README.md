@@ -28,6 +28,15 @@ text and custom entity labels.
 - requests for downloading HarveyNER test data
 - Gradio for the web demo
 
+## Reference
+
+This project is based on GLiNER:
+
+- Urchade Zaratiana, Nadi Tomeh, Pierre Holat, and Thierry Charnois.
+  **GLiNER: Generalist Model for Named Entity Recognition using Bidirectional
+  Transformer**. NAACL 2024.
+  <https://aclanthology.org/2024.naacl-long.300.pdf>
+
 ## Repository Structure
 
 ```text
