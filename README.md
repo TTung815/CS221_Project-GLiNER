@@ -37,10 +37,18 @@ This project is based on GLiNER:
   Transformer**. NAACL 2024.
   <https://aclanthology.org/2024.naacl-long.300.pdf>
 
+## Project Artifacts
+
+- [Project report](Report_CS221.pdf)
+- [Presentation slides](SLIDE_CS221.pdf)
+- [Demo video](https://drive.google.com/file/d/1-RG0wT1dLxJ_Tw-gTSVRKwcJg3WSmkOX/view)
+
 ## Repository Structure
 
 ```text
 .
+├── Report_CS221.pdf            # Final project report
+├── SLIDE_CS221.pdf             # Presentation slides
 ├── data/crossner/              # CrossNER test files used by the evaluation script
 ├── demo/app.py                 # Gradio NER playground
 ├── demo/requirements.txt       # Demo dependencies
